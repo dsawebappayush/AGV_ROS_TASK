@@ -1,0 +1,8 @@
+prefix=/home/pc/dummy/devel
+
+Name: packs
+Description: Description of packs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
